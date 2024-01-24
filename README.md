@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SidoJain
-- 👀 I’m interested in ...
+- 👀 I’m interested in ... Solving Puzzles
 - 🌱 I’m currently learning ... Web Dev and DSA
-- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... sidojain30705@gmail.com
 
 <!---
