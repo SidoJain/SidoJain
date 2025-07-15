@@ -44,7 +44,7 @@ Welcome to my GitHub! I'm a passionate **developer, problem-solver, and lifelong
 
 - [PakdoMon](https://github.com/SidoJain/PakdoMon): A comprehensive database for Pokémon information, including stats, moves, abilities, evolutions, and more.
 - [Sepolia Faucet](https://github.com/SidoJain/Sepolia-Faucet): Simple Sepolia Faucet.
-- [Chat App](https://github.com/SidoJain/Chat-App): A real-time chat application that enables users to connect, communicate, and share messages instantly.
+- [Vero Chat](https://github.com/SidoJain/Vero-Chat): A real-time chat application that enables users to connect, communicate, and share messages instantly.
 - [C-SQL](https://github.com/SidoJain/C-SQL): An SQL like database implementation in C using B-Trees for indexing.
 
 ## 📬 Let's Connect
