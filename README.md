@@ -1,5 +1,8 @@
 ## 💫 About Me:
-👯 I’m looking to collaborate on any exciting project.<br>🌱 I’m currently learning Machine Learning.<br>💬 Ask me about Web Development in JS/TS.<br>⚡ Exploring Blockchain technology and practicing DSA.
+👯 I’m looking to collaborate on any exciting project.<br>
+🌱 I’m currently learning Generative AI.<br>
+💬 Ask me about Web Development in TypeScript and Python.<br>
+⚡ Exploring Blockchain technology and practicing DSA.
 
 
 ## 🌐 Socials:
